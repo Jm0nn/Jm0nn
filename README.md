@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Jm0nn%20GitHub&fontSize=50&rotate=13&fontAlign=70&fontAlignY=30)
 
   #### 🐣 About me 🐣
-  [ 2023.07 ~ ] 삼성 청년 SW 아카데미
+  [ 2023.07 ~ ] 삼성 청년 SW 아카데미 (SSAFY)
   <br/>
   [ 2021.03 ~ 2022.09 ] Military Service
   <br/>
@@ -39,7 +39,7 @@
   <br/>
   <br/>
 
-  #### 🎨 BOJ Profile 🎨
+  #### 🎨 BOJ profile 🎨
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcheong321)](https://solved.ac/profile/kcheong321)
   <br/>
   <br/>
