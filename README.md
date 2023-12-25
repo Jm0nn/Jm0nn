@@ -31,14 +31,14 @@
   ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
   <br/>
   <br/>
-
+<!--
   #### 🌱 Learning 🌱
   ![C++](https://img.shields.io/badge/C++-00599c.svg?style=flat&logo=cplusplus&logoColor=white)
   ![Intellij](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=intellijidea&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5c2d91.svg?style=flat&logo=visualstudio&logoColor=white)
   <br/>
   <br/>
-
+-->
   #### 🎨 BOJ profile 🎨
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcheong321)](https://solved.ac/profile/kcheong321)
   <br/>
